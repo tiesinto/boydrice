@@ -22,9 +22,9 @@ These are the dotfiles deployed by [DFI](https://github.com/tiesinto/dfi).
 
 These dotfiles are intended to go with numerous suckless programs I use:
 
-- [dwm](https://github.com/lukesmithxyz/dwm) (window manager)
-- [dwmblocks](https://github.com/lukesmithxyz/dwmblocks) (statusbar)
-- [st](https://github.com/lukesmithxyz/st) (terminal emulator)
+- Luke's build of [dwm](https://github.com/lukesmithxyz/dwm) (window manager)
+- My build of [dwmblocks](https://github.com/tiesinto/dwmblocks) (statusbar)
+- Luke's build of [st](https://github.com/lukesmithxyz/st) (terminal emulator)
 
 I also recommend trying out
 [mutt-wizard](https://github.com/lukesmithxyz/mutt-wizard), which additionally
