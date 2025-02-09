@@ -46,3 +46,6 @@ or clone the repo files directly to your home directory and install the
 ## Default Desktop Artwork
 
 My favorite Yume 2kki wallpaper, *No.01* by FOUNCID (wallpaper №15) ([pixiv](https://www.pixiv.net/users/796402))
+
+##
+![screenshot](./boyd.webp)
