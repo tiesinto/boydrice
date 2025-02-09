@@ -1,0 +1,4 @@
+#!/bin/sh
+
+# A wrapper for the qutebrowser that automatically deletes cache, cookies, and
+# history. Still yet to be completed.
