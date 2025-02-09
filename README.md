@@ -37,7 +37,7 @@ as well.
 Use [DFI](https://github.com/tiesinto/dfi) to autoinstall everything:
 
 ```
-curl -LO https://github.com/tiesinto/dfi/blob/master/static/larbs.sh
+curl -LO https://github.com/tiesinto/dfi/blob/master/static/dfi.sh
 ```
 
 or clone the repo files directly to your home directory and install the
