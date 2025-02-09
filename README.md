@@ -49,4 +49,4 @@ My favorite Yume 2kki wallpaper, *No.01* by FOUNCID (wallpaper №15) ([pixiv](h
 
 ##
 
-![screenshot](./boyd.webp)
+<img src="./boyd.webp" title="Boyd Rice">
