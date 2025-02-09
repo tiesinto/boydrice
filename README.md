@@ -1,7 +1,6 @@
-# The Voidrice (Luke Smith <https://lukesmith.xyz>'s dotfiles)
+# The Boydrice (my dotfiles)
 
-These are the dotfiles deployed by [LARBS](https://larbs.xyz) and as seen on
-[my YouTube channel](https://youtube.com/c/lukesmithxyz).
+These are the dotfiles deployed by [DFI](https://github.com/tiesinto/dfi).
 
 - Very useful scripts are in `~/.local/bin/`
 - Settings for:
@@ -35,15 +34,15 @@ as well.
 
 ## Install these dotfiles and all dependencies
 
-Use [LARBS](https://larbs.xyz) to autoinstall everything:
+Use [DFI](https://github.com/tiesinto/dfi) to autoinstall everything:
 
 ```
-curl -LO larbs.xyz/larbs.sh
+curl -LO https://github.com/tiesinto/dfi/blob/master/static/larbs.sh
 ```
 
 or clone the repo files directly to your home directory and install the
-[dependencies](https://github.com/LukeSmithxyz/LARBS/blob/master/static/progs.csv).
+[dependencies](https://github.com/tiesinto/dfi/blob/master/static/progs.csv).
 
 ## Default Desktop Artwork
 
-Thomas Thiemeyer's *The Road to Samarkand* ([fb](https://www.facebook.com/t.thiemeyer/), [insta](https://www.instagram.com/tthiemeyer/), [shop](https://www.redbubble.com/de/people/TThiemeyer/shop))
+My favorite Yume 2kki wallpaper, *No.01* by FOUNCID (wallpaper №15) ([pixiv](https://www.pixiv.net/users/796402))
