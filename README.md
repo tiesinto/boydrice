@@ -22,7 +22,7 @@ These are the dotfiles deployed by [DFI](https://github.com/tiesinto/dfi).
 
 These dotfiles are intended to go with numerous suckless programs I use:
 
-- Luke's build of [dwm](https://github.com/lukesmithxyz/dwm) (window manager)
+- My build of [dwm](https://github.com/tiesinto/dwm) (window manager)
 - My build of [dwmblocks](https://github.com/tiesinto/dwmblocks) (statusbar)
 - Luke's build of [st](https://github.com/lukesmithxyz/st) (terminal emulator)
 
